@@ -33,6 +33,6 @@ npm install miniprogram-api-typings@2.4.1
 
 定义文件是随 [文档](https://developers.weixin.qq.com/miniprogram/dev/index.html) 一起自动生成的，所以所有的 PR 都将 __不会__ 被接受。如果您有 bug 反馈或建议，请提一个 issue 给我们。非常感谢！
 
-
+wrwr
 
 add new branch
